@@ -8,7 +8,7 @@ function setup() {
 function draw() {
   // Put drawings here
   if (mouseIsPressed) {
-    fill(70, 5, 100);
+    fill(80, 5, 100);
   } else {
     fill(20, 31, 81);
   }
